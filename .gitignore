@@ -1,0 +1,50 @@
+{|class="mw-content-ltr" border="0" cellspacing="0" cellpadding="0" width="100%" style="margin:.6em 0;"
+|-valign="top"<!--
+{|class="mw-content-ltr" border="0" cellspacing="0" cellpadding="0" width="100%" style="margin:.6em 0;"
+|-valign="top"<!--
+
+CONTRIBUTORS: if your test wiki is very active, you are allowed to add it to the appropriate section; but only up to 10 projects should be featured per column at the same time.
+
+TRANSLATORS: please do not mark this page for translation, as it is a frequently updated page.
+The messages used within it can be translated on Translatewiki: https://translatewiki.net/wiki/Special:Translate/ext-wikimediaincubator-onwiki
+
+-->
+|width="25%"| [[Incubator:Site creation log|{{int:wminc-custom-featuredwikis-approved}}]]
+* '''{{localised wiki name|Wy|id|Indonesian}}'''
+|style="min-width:1em"|&nbsp;<!--larger separator-->
+|width="50%"| {{int:wminc-custom-featuredwikis-active}}
+{|border="0" cellspacing="0" cellpadding="0" width="100%" style="margin:0;"
+|-valign="top"
+|
+{{int:Wikibase-sitelinks-wikipedia}}<!--please sort languages alphabetically per ISO code-->
+* '''{{localised wiki name|Wp|isv|Interslavic}}'''
+* '''{{localised wiki name|Wp|kaj|Jju}}'''
+* '''{{localised wiki name|Wp|knc|Central Kanuri}}'''
+* '''{{localised wiki name|Wp|lua|Luba-Kasai}}'''
+* '''{{localised wiki name|Wp|mag|Magahi}}'''
+* '''{{localised wiki name|Wp|mnp|Northern Min}}'''
+* '''{{localised wiki name|Wp|nup|Nupe}}'''
+* '''{{localised wiki name|Wp|rki|Rakhine}}'''
+* '''{{localised wiki name|Wp|syl|Sylheti}}'''
+* '''{{localised wiki name|Wp|tig|Tigre}}'''
+|
+{{int:Wikibase-sitelinks-wiktionary}}
+* '''{{localised wiki name|Wt|ary|Moroccan Arabic}}'''
+* '''{{localised wiki name|Wt|sat|Santali}}'''
+{{int:Wikibase-sitelinks-wikibooks}}
+* '''{{localised wiki name|Wb|bcl|Central Bikol}}'''
+* '''{{localised wiki name|Wb|min|Minangkabau}}'''
+{{int:Wikibase-sitelinks-wikivoyage}}
+* '''{{localised wiki name|Wy|hbs|Serbo-Croatian}}'''
+|}
+
+
+|style="min-width:1em"|&nbsp;<!--larger separator-->
+|width="25%"| {{int:wminc-custom-featuredwikis-permanent}}
+* '''{{localised wiki name|Wp|grc|Ancient Greek}}'''
+* '''{{localised wiki name|Wp|cnr|Montenegrin}}'''
+* '''{{localised wiki name|Wp|cop|Coptic}}'''
+|}<noinclude>
+
+[[Category:Incubator:(all)|Featured wikis]]
+</noinclude>
